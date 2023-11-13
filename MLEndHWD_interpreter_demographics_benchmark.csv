@@ -1,0 +1,237 @@
+Interpreter,Language1,Language2,Nationality,Coordinates,Benchmark_A
+49,Arabic,French,Algerian,"(36.92, 7.75)",Train
+31,English,,American,"(37.7749, -122.4194)",Test
+43,English,,American,"(39.17, -86.53)",Train
+137,English,,American,"(38.83, -104.82)",Test
+190,English,Spanish,American,"(32.7157, -117.1611)",Train
+16,Indonesian,English,Australian,"(51.51,0.12)",Test
+159,German,Malayalam,Austrian,"(47.2575, 8.6947)",Test
+189,Dutch,French,Belgian,"(51.2206,4.4005)",Train
+1,Portuguese,English,Brazilian,"(-16.6869, -49.2648)",Test
+9,English,,British,"(51.52, -0.04)",Train
+15,English,,British,"(51.52, -0.04)",Train
+20,English,,British,"(51.40,-0.14)",Train
+21,English,,British,"(51.5771, 0.1783)",Train
+33,English,,British,"(51.27, 0.52)",Train
+35,English,,British,"(51.68, 0.76)",Train
+37,English,,British,"(51.62,0.07)",Test
+38,Gujarati,English,British,"(51.5848, 0.2787)",Train
+44,English,,British,"(52.21, 0.12)",Train
+46,English,,British,"(51.4584, -0.1891)",Train
+47,English,Urdu,British,"(51.5072, 0.1276)",Train
+51,English,,British,"(51.8032, 0.2087)",Train
+58,English,,British,"(51.5809, 0.1896)",Train
+59,English,Spanish,British,"(51.43,-0.17)",Train
+60,English,Arabic,British,"(51.48, -0.16)",Train
+61,English,,British,"(51.53421, -0.22084)",Train
+64,English,Yoruba,British,"(51.51, -0.12)",Train
+66,English,Marathi,British,"(51.547513,0.141118)",Train
+70,English,Bengali,British,"(51.52, 0.03)",Train
+71,English,,British,"(51.52, -0.04)",Test
+73,English,Cantonese,British,"(51.52, -0.04)",Train
+81,English,Bengali,British,"(51.56, -0.058)",Train
+94,English,,British,"(51.56,-0.16)",Test
+95,Bengali,English,British,"(51.6242, 0.0604)",Train
+100,English,,British,"(51.51, 0.30)",Train
+110,English,Gujarati,British,"(51.55, 1.78)",Train
+121,English,,British,"(50.8, -1.8)",Train
+124,English,,British,"(51.39, 0.14)",Train
+128,English,,British,"(51.80, 0.63)",Train
+151,English,Welsh,British,"(51.62,3.94)",Test
+160,English,Romanian,British,"(51.49104, -3.18103)",Train
+171,English,Punjabi,British,"(51.58, 0.07)",Test
+180,English,Arabic,British,"(51.56, -0.28)",Train
+195,English,,British,"(51.52, 0.19)",Train
+200,English,,British,"(51.50, -0.05)",Test
+218,English,Dhivehi,British,"(4.225372, 73.519459)",Test
+226,English,,British,"(51.44, -0.36)",Train
+234,English,,British,"(51.55, -0.10)",Train
+181,Bulgarian,English,Bulgarian,"(44.11, 27.27)",Train
+217,English,Russian,Canadian,"(54.2, -125.8)",Train
+164,Spanish,English,Chilean,"(-33.44, -70.67)",Train
+19,Chinese,English,Chinese,"(39.13, 117.18)",Train
+34,Chinese,English,Chinese,"(51.52, -0.04)",Train
+42,Chinese,English,Chinese,"(39.9, 116.4)",Test
+63,Chinese,English,Chinese,"(51.52, -0.04)",Train
+67,Chinese,English,Chinese,"(33.9,108.5)",Test
+68,Chinese,English,Chinese,"(31.03, 121.22)",Train
+75,Chinese,English,Chinese,"(41.48,123.25)",Test
+83,Chinese,English,Chinese,"(51.32,0.01)",Test
+92,Chinese,English,Chinese,"(51.526,-0.056)",Train
+96,Chinese,English,Chinese,"(34.16,108.95)",Test
+102,Chinese,,Chinese,"(51.52, -0.04)",Train
+105,Chinese,English,Chinese,"(34.25,108.94)",Train
+112,Chinese,English,Chinese,"(51.54, -0.005)",Train
+127,Chinese,,Chinese,"(25.05, 119.30)",Train
+140,Chinese,,Chinese,"(22.28, 114.15)",Train
+144,Chinese,English,Chinese,"(32.71, 113.29)",Train
+145,Chinese,English,Chinese,"(34.9, 116.4)",Train
+149,Chinese,English,Chinese,"(51.52, -0.04)",Test
+178,Chinese,English,Chinese,"(51.52, -0.04)",Train
+183,Chinese,English,Chinese,"(51.52, -0.04)",Test
+205,Chinese,English,Chinese,"(23.02, 113.75)",Train
+211,Chinese,English,Chinese,"(51.52, -0.04)",Train
+221,Chinese,English,Chinese,"(31.23, 121.47)",Train
+227,Chinese,English,Chinese,"(51.52, -0.04)",Train
+228,Chinese,,Chinese,"(25.03, 121.56)",Test
+84,Spanish,English,Colombian,"(10.97,-74.80)",Train
+53,Greek,English,Cypriot,"(35.1338, 33.3598)",Test
+176,Greek,English,Cypriot,"(51.5125943,-0.2190144)",Train
+30,Dutch,English,Dutch,"(40.10, 23.31)",Test
+139,English,Somali,Dutch,"(51.58, -0.28)",Train
+45,English,Filipino,Filipino,"(35.6620, 139.7038)",Train
+6,Chinese,German,German,"(30.54, 114.30)",Test
+54,German,English,German,"(51.50,0.13)",Train
+0,Akan,English,Ghanaian,"(5.6037, -0.1870)",Train
+215,Hungarian,English,Hungarian,"(51.509865, -0.118092)",Train
+197,Icelandic,English,Icelandic,"(64.1466, 21.9426)",Train
+2,Urdu,English,Indian,"(49,-0.2)",Train
+3,Malayalam,Hindi,Indian,"(51.5912,0.1046)",Train
+4,Telugu,Hindi,Indian,"(51.52, -0.04)",Test
+5,Malayalam,English,Indian,"(10.89, 76.07)",Train
+8,Hindi,English,Indian,"(22.9504, 76.0317)",Train
+11,Hindi,English,Indian,"(51.49,-0.02)",Train
+13,Hindi,English,Indian,"(28.70, 77.10)",Train
+14,Hindi,Marathi,Indian,"(19.5525, 74.1945)",Train
+18,Kannada,English,Indian,"(51.52,-0.05)",Train
+22,English,Malayalam,Indian,"(25.2146, 55.3033)",Test
+23,Hindi,English,Indian,"(28.70, 77.10)",Train
+24,Bengali,English,Indian,"(22.70,88.37)",Train
+26,Urdu,English,Indian,"(28.7041, 77.1025)",Train
+29,Tamil,English,Indian,"(51.52, -0.04)",Train
+32,Gujarati,English,Indian,"(23.0225, 72.5714)",Test
+40,Hindi,English,Indian,"(26.11934, 83.54389)",Train
+50,Punjabi,English,Indian,"(51.52,-0.04)",Train
+56,Hindi,English,Indian,"(28.71, 77.15)",Train
+57,Hindi,English,Indian,"(20.5937, 78.9629)",Test
+65,Hindi,English,Indian,"(51.52, -0.04)",Train
+69,Hindi,English,Indian,"(25.44, 81.85)",Train
+76,Telugu,Hindi,Indian,"(16.998560, 81.802367)",Train
+77,English,Tamil,Indian,"(11.6643, 78.1460)",Train
+79,Gujarati,English,Indian,"(23.02,72.57)",Train
+80,Telugu,,Indian,"(51.52, -0.04)",Test
+85,Tamil,English,Indian,"(51.52, -0.04)",Train
+86,Tamil,English,Indian,"(8.17, 77.43)",Train
+87,Punjabi,English,Indian,"(51.52, -0.04)",Train
+88,Tamil,Telugu,Indian,"(11.09,76.94)",Test
+89,Marathi,English,Indian,"(19.42,72.81)",Train
+90,Hindi,English,Indian,"(25.665325,78.460938)",Train
+98,Hindi,English,Indian,"(25.80, 84.12)",Train
+103,Telugu,Hindi,Indian,"(17.47, 78.72)",Test
+104,Kannada,English,Indian,"(13.34, 74.74)",Train
+108,English,Malayalam,Indian,"(51.5650, 0.0088)",Train
+109,Marathi,Hindi,Indian,"(18.5204, 73.8567)",Train
+111,English,Hindi,Indian,"(12.9716, 77.5946)",Train
+114,Hindi,English,Indian,"(18.4926, 73.8757)",Train
+117,Hindi,English,Indian,"(51.52,-0.02)",Train
+118,Malayalam,English,Indian,"(13.06,80.23)",Train
+122,Malayalam,,Indian,"(51.52,-0.04)",Train
+123,Marathi,English,Indian,"(18.52, 73.85)",Train
+126,Hindi,English,Indian,"(19.01, 73.01)",Train
+133,English,Hindi,Indian,"(51.52, -0.04)",Train
+134,Bengali,Hindi,Indian,"(22.57, 88.41)",Train
+135,Hindi,English,Indian,"(40.60, -122.40)",Train
+138,Tamil,,Indian,"(10.7905, 78.7047)",Train
+146,Marathi,Hindi,Indian,"(51.50, -0.02)",Train
+148,Telugu,English,Indian,"(12.97, 77.59)",Train
+153,Hindi,English,Indian,"(28.45,77.02)",Test
+154,Malayalam,English,Indian,"(9.93, 76.26)",Train
+155,Hindi,English,Indian,"(51.496, -0.014)",Train
+156,Telugu,English,Indian,"(17.3850, 78.4867)",Train
+161,English,Kannada,Indian,"(51.563735135501084, 0.002)",Train
+162,Hindi,English,Indian,"(28.7041, 77.1025)",Train
+166,Hindi,English,Indian,"(28.59, 77.16)",Train
+167,Malayalam,English,Indian,"(9.9312, 76.2673)",Train
+168,Telugu,English,Indian,"(51.52, -0.04)",Train
+169,English,Tamil,Indian,"(13.08, 80.27)",Test
+170,English,Kannada,Indian,"(12.29, 76.63)",Train
+175,Marathi,English,Indian,"(51.52, -0.04)",Train
+179,Marathi,English,Indian,"(19.86718, 75.36484)",Test
+182,Hindi,English,Indian,"(22.80, 86.20)",Train
+185,Marathi,Hindi,Indian,"(20.760457, 78.617498)",Train
+187,Telugu,English,Indian,"(17.3850, 78.4867)",Test
+188,Marathi,English,Indian,"(19.07,72.88)",Train
+191,Hindi,English,Indian,"(51.52, -0.04)",Train
+192,English,Hindi,Indian,"(51.51, -0.06)",Train
+198,Tamil,English,Indian,"(51.557496, 0.073161)",Train
+199,Bengali,English,Indian,"(22.5797, 88.4143)",Train
+201,Hindi,English,Indian,"(28.7041, 77.1025)",Train
+203,Hindi,English,Indian,"(51.587370, -0.040330)",Train
+204,English,,Indian,"(51.52, -0.04)",Test
+206,Gujarati,English,Indian,"(51.52, -0.04)",Train
+208,Malayalam,Hindi,Indian,"(11.8745, 75.3704)",Train
+209,Hindi,Sadri,Indian,"(12, 77)",Train
+213,Marathi,English,Indian,"(19.158174, 72.989011)",Train
+214,Gujarati,Hindi,Indian,"(19.0760, 72.8777)",Train
+219,Hindi,English,Indian,"(51.52,-0.05)",Test
+220,Tamil,English,Indian,"(51.5592, 0.07)",Train
+223,Hindi,English,Indian,"(51.51, 0.02)",Train
+224,English,Hindi,Indian,"(51.5082, 0.0014)",Train
+225,Marathi,Hindi,Indian,"(20.76, 78.61)",Train
+229,Telugu,English,Indian,"(51.52, -0.04)",Train
+230,English,Hindi,Indian,"(53.76,-2.70)",Train
+231,Malayalam,English,Indian,"(9.97,76.28)",Train
+232,Marathi,English,Indian,"(51.52841483060752, -0.024)",Train
+233,Punjabi,English,Indian,"(52.064,-0.764)",Train
+173,Indonesian,English,Indonesian,"(51.51, -0.06)",Test
+113,Persian,Turkish,Iranian,"(32.4279,53.6880)",Train
+147,Persian,English,Iranian,"(35.6,51.3)",Test
+163,Persian,English,Iranian,"(51.58,-0.22)",Train
+174,English,Yoruba,Irish,"(51.48, 0.00)",Train
+194,Urdu,English,Irish,"(31.48, 74.40)",Test
+27,Bengali,Italian,Italian,"(51.51, -0.00074)",Train
+222,English,Patois,Jamaican,"(51.52, -0.04)",Train
+78,Kazakh,English,Kazakh,"(51.52, -0.04)",Train
+116,Lithuanian,Russian,Lithuanian,"(55.598, 26.353)",Train
+28,Urdu,English,Pakistani,"(24.86, 67.00)",Train
+131,English,Urdu,Pakistani,"(51.53, 0.03)",Test
+216,Portuguese,English,Portuguese,"(51.52, -0.04)",Train
+82,Russian,English,Russian,"(59.9311, 30.3609)",Train
+157,Russian,English,Russian,"(55.75, 37.62)",Train
+177,Russian,English,Russian,"(51.51, -0.11)",Test
+143,Arabic,English,Saudi,"(51, -0)",Test
+165,Arabic,English,Saudi,"(24.71,46.67)",Train
+101,Sinhala,English,Sri Lankan,"(6.93, 79.86)",Train
+7,Tamil,English,Swiss,"(51.46, 0.03)",Train
+125,Chinese,English,Taiwanese,"(23.69, 120.96)",Train
+52,Turkish,,Turkish,"(41.00,39.71)",Train
+99,Russian,English,Uzbek,"(41.3775, 64.5853)",Train
+186,Vietnamese,English,Vietnamese,"(51.52, -0.04)",Train
+207,Vietnamese,English,Vietnamese,"(21.03, 105.83)",Train
+212,Shona,English,Zimbabwean,"(-17.82,31.05)",Train
+10,,,,,Test
+12,,,,,Test
+17,,,,,Test
+25,,,,,Test
+36,,,,,Test
+39,,,,,Test
+41,,,,,Test
+48,,,,,Test
+55,,,,,Test
+62,,,,,Test
+72,,,,,Test
+74,,,,,Test
+91,,,,,Test
+93,,,,,Test
+97,,,,,Test
+106,,,,,Test
+107,,,,,Test
+115,,,,,Test
+119,,,,,Test
+120,,,,,Test
+129,,,,,Test
+130,,,,,Test
+132,,,,,Test
+136,,,,,Test
+141,,,,,Test
+142,,,,,Test
+150,,,,,Test
+152,,,,,Test
+158,,,,,Test
+172,,,,,Test
+184,,,,,Test
+193,,,,,Test
+196,,,,,Test
+202,,,,,Test
+210,,,,,Test
+235,,,,,Test
